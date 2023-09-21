@@ -1,9 +1,58 @@
-body {
-    background-color: white;
-    font-family: Arial, sans-serif;
+body, h1, p, form {
+    margin: 0;
+    padding: 0;
 }
 
-h1.rojo {
-    color: red;
+/* Estilo para el encabezado h1 */
+h1 {
+    color: #FF0000; /* Color rojo para el texto */
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
 }
 
+/* Estilo para el párrafo */
+p {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Estilo para el formulario */
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilo para etiquetas de formulario */
+label {
+    display: block; /* Muestra las etiquetas en una línea nueva */
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Estilo para los campos de entrada de texto y de archivo */
+input[type="text"],
+input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para el botón de envío */
+button[type="submit"] {
+    background-color: #0073e6; /* Color de fondo azul */
+    color: #fff; /* Color de texto blanco */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Cambiar estilo del botón al pasar el mouse sobre él */
+button[type="submit"]:hover {
+    background-color: #005bbf; /* Cambiar el color de fondo al azul oscuro */
+}
