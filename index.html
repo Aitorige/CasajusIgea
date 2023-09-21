@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
     <title>Página de CasajusIgea</title>
-    <script src="miarchivo.js"></script>
 </head>
 <body>
     <h1 class="rojo">Hola página web de CasajusIgea</h1>
@@ -13,14 +12,15 @@
 
    
     <form>
-        <label for="nombre">Nombre:</label>
-        <input type="text" id="nombre" name="nombre" placeholder="Tu nombre">
-        <br>
-        <label for="archivo">Selecciona un archivo:</label>
-        <input type="file" id="archivo" name="archivo">
-        <br>
-        <button type="submit">Enviar</button>
+        <label for="nombre">Nombre pelicula:</label>
+        <input type="text" id="nombrep" name="nombre" placeholder="nombre pelicula">
+       <div id="busqueda">
+        <button id="enviar" type="submit">Enviar</button>
+        <script src="api.js"></script>
+       </div>
     </form>
+    
+    <label for="director"> </label>
 
 </body>
 </html>
