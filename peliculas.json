@@ -1,0 +1,65 @@
+{
+    "peliculas": [
+      {
+        "id": 1,
+        "nombre": "El Padrino",
+        "año_publicacion": 1972,
+        "actores": ["Marlon Brando", "Al Pacino", "James Caan"]
+      },
+      {
+        "id": 2,
+        "nombre": "Titanic",
+        "año_publicacion": 1997,
+        "actores": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]
+      },
+      {
+        "id": 3,
+        "nombre": "La La Land",
+        "año_publicacion": 2016,
+        "actores": ["Ryan Gosling", "Emma Stone", "John Legend"]
+      },
+      {
+        "id": 4,
+        "nombre": "Avatar",
+        "año_publicacion": 2009,
+        "actores": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"]
+      },
+      {
+        "id": 5,
+        "nombre": "Forrest Gump",
+        "año_publicacion": 1994,
+        "actores": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+      },
+      {
+        "id": 6,
+        "nombre": "Pulp Fiction",
+        "año_publicacion": 1994,
+        "actores": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"]
+      },
+      {
+        "id": 7,
+        "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+        "año_publicacion": 2001,
+        "actores": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"]
+      },
+      {
+        "id": 8,
+        "nombre": "Jurassic Park",
+        "año_publicacion": 1993,
+        "actores": ["Sam Neill", "Laura Dern", "Jeff Goldblum"]
+      },
+      {
+        "id": 9,
+        "nombre": "Gladiator",
+        "año_publicacion": 2000,
+        "actores": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]
+      },
+      {
+        "id": 10,
+        "nombre": "Interstellar",
+        "año_publicacion": 2014,
+        "actores": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+      }
+    ]
+  }
+  

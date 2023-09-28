@@ -1,0 +1,55 @@
+{
+    "actores": [
+      {
+        "id": 1,
+        "nombre_completo": "Marlon Brando",
+        "año_nacimiento": 1924
+      },
+      {
+        "id": 2,
+        "nombre_completo": "Leonardo DiCaprio",
+        "año_nacimiento": 1974
+      },
+      {
+        "id": 3,
+        "nombre_completo": "Ryan Gosling",
+        "año_nacimiento": 1980
+      },
+      {
+        "id": 4,
+        "nombre_completo": "Sam Worthington",
+        "año_nacimiento": 1976
+      },
+      {
+        "id": 5,
+        "nombre_completo": "Tom Hanks",
+        "año_nacimiento": 1956
+      },
+      {
+        "id": 6,
+        "nombre_completo": "John Travolta",
+        "año_nacimiento": 1954
+      },
+      {
+        "id": 7,
+        "nombre_completo": "Elijah Wood",
+        "año_nacimiento": 1981
+      },
+      {
+        "id": 8,
+        "nombre_completo": "Sam Neill",
+        "año_nacimiento": 1947
+      },
+      {
+        "id": 9,
+        "nombre_completo": "Russell Crowe",
+        "año_nacimiento": 1964
+      },
+      {
+        "id": 10,
+        "nombre_completo": "Matthew McConaughey",
+        "año_nacimiento": 1969
+      }
+    ]
+  }
+  
